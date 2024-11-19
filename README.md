@@ -1,2 +1,2 @@
 # aj-colorize-pkg
-Bring color into Python command-line output with aj-colorize
+Bring color into Python CLI with aj-colorize
